@@ -1,30 +1,21 @@
-# SDC310 GitHub Project
-# Project Name: Hogwarts Supply Shop
+# Hogwarts Supply Shop
 
-## Project Description
-This project is a PHP web application that simulates an online store for Harry Potter themed items. Users can view products, add and remove items from a cart, and interact with a database-driven storefront.
+## Description
+A PHP web application that simulates an online Harry Potter themed store. Users can view products, add items to a cart, and manage their selections.
 
-## Project Tasks
-- Set up development environment
-- Connect PHP application to MySQL database
-- Display product data from database
-- Implement cart functionality using sessions
-- Apply MVC architecture to organize code
-- Test application functionality
-- Finalize and prepare for submission
-
-## Project Skills Learned
-- PHP web development
-- MySQL database integration
-- Session handling for cart functionality
+## Features
+- Product catalog
+- Shopping cart functionality
 - MVC architecture
-- Debugging and troubleshooting
-- GitHub version control
+- MySQL database integration
 
-## Language Used
+## Technologies
 - PHP
 - MySQL
 - HTML/CSS
+
+## Author
+Krista Agustin
 
 ## Development Process Used
 - Agile methodology with weekly planning and updates
